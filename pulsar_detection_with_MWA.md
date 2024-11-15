@@ -19,3 +19,92 @@ Applying this method to pulsar detection presents a challenge: undetected pulsar
 During the project, the student advanced to this stage, where the process was relatively straightforward. However, a simple suggestion introduced complexity: it was recommended to perform a median stack instead of a mean stack, as the median is a more robust statistic. This refers to the fact that, as commonly learned in high school mathematics, the mean is more susceptible to outliers than the median. In symmetric distributions, both the mean and median yield identical results. However, in cases of asymmetric distributions or when significant outliers are present, the median provides a more accurate representation of the central value. The next lecture will explore how this seemingly minor methodological change significantly impacted the computational efficiency of obtaining results.
 
 
+# Key Points: Detecting Pulsars with the Murchison Widefield Array (MWA)
+
+## Introduction to Signal Detection in Astronomy
+- **Challenge**: Detecting signals amidst noise.
+- **Example Problem**: Determining the number of pulsars detected in MWA images.
+
+## Murchison Widefield Array (MWA) Overview
+- **Location**: Western Australia.
+- **Frequency Range**: 80 to 300 MHz (similar to popular radio stations).
+- **Features**:
+  - Large field of view.
+  - Ideal for large survey projects.
+
+## Understanding MWA Images
+- **Image Representation**:
+  - Grayscale indicates flux density of astronomical objects.
+  - **Black**: High flux density.
+  - **Gray**: Background noise.
+- **Common Objects**:
+  - Distant radio galaxies (black dots).
+  - Galactic objects like pulsars and supernova remnants.
+
+## Flux Density in Radio Astronomy
+- **Unit**: Janskys (Jy).
+  - 1 Jy = 10⁻²⁶ W/m²/Hz.
+- **Definition**: Spectral power received by a telescope detector per unit area.
+- **Importance**: Measures the apparent brightness of pulsars at specific frequencies.
+
+## Image Formats and Visualization
+- **File Format**: FITS (Flexible Image Transport System).
+- **Viewing Tools**:
+  - Software: DS9.
+  - Online Tools: Aladin.
+- **False Color Display**:
+  - Enhances intensity scale.
+  - Radio frequencies inherently have no color.
+
+## Pulsar Detection in MWA Images
+- **Detection Criteria**:
+  - Flux density > 5 standard deviations above local noise.
+- **Detection Examples**:
+  - Images with and without pulsar detections.
+- **Non-Detections**:
+  - Possible Reasons:
+    - Pulsar too distant.
+    - Weak intrinsic emission at MWA frequencies.
+    - Intermittent or switched-off emission.
+
+## Techniques for Analyzing Non-Detections
+- **Stacking**:
+  - Measures statistical properties of undetected populations.
+  - **Process**:
+    1. Align pulsar positions to the same pixel.
+    2. Combine multiple images to enhance signal-to-noise ratio.
+- **Signal vs. Noise**:
+  - Noise is random with a Gaussian distribution centered on zero.
+  - Stacking cancels out random noise, amplifies consistent signals.
+
+## Stacking Demonstration
+- **Single Signal with Noise**:
+  - Signal becomes obscured with enough noise.
+- **Multiple Signals (e.g., 100)**:
+  - Averaging increases signal-to-noise ratio.
+  - Underlying signal becomes detectable across the population.
+
+## Challenges with Stacking
+- **Position Alignment**:
+  - Undetected pulsars are scattered across the sky.
+  - Must shift positions to center on the same pixel before stacking.
+
+## Mean Stack vs. Median Stack
+- **Mean Stack**:
+  - Calculates the average of each pixel across images.
+  - Susceptible to outliers.
+- **Median Stack**:
+  - Uses the median value of each pixel.
+  - More robust against outliers and asymmetric distributions.
+- **Impact**:
+  - Changing from mean to median stack complicates computation.
+  - Explored further in subsequent lectures.
+
+## Conclusion
+- **Detection Techniques**: Essential for identifying and analyzing pulsars.
+- **Method Selection**: Choice between mean and median stacking affects results.
+- **Future Exploration**: Investigate the impact of different stacking methods on data analysis.
+
+
+
+
