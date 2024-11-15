@@ -2,10 +2,10 @@
 
 - **Data-Driven Astronomy**  
   [Coursera - Data-Driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy)  
-  Hosted by Prof. Dr. Tara Murphy from the University of Sydney
+  *Hosted by Prof. Dr. Tara Murphy from the University of Sydney*
 
 - **Astropy Documentation**  
-  [Astropy Project](https://www.astropy.org/) 
+  [Astropy Project](https://www.astropy.org/)
 
 - **NASA Exoplanet Archive**  
   [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)
