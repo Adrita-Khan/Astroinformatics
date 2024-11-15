@@ -59,7 +59,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## References and Resources
 
-Can be found [here](references_and_resources.md) 
+Can be found [here](References and Resources/references_and_resources.md) 
 
 ## Contributing
 
