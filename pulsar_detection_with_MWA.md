@@ -5,7 +5,7 @@ In the field of astronomy, it is common to detect signals amidst significant bac
 A typical image produced by the MWA appears as shown below.
 A typical image produced by the MWA appears as shown below:
 
-![MWA Image](Assets/Image 1.png)
+![MWA Image](Assets/One.png)
 
 
 
