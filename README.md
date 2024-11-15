@@ -53,15 +53,7 @@ This repository aims to foster the development of computational thinking and dat
 - **Scripts**: Useful Python scripts that automate data processing tasks, visualize astronomical phenomena, and create simulations.
 - **Papers and References**: A collection of papers, articles, and books for extended reading, providing a theoretical background to complement the practical exercises.
  ```
-## Contributing
 
-We welcome contributions from fellow astronomy enthusiasts, programmers, and students. Contributions can include bug fixes, new features, additional examples, or enhancements to existing content.
-
-If you'd like to contribute:
-1. Fork the repository.
-2. Create a new branch (`feature-branch-name`).
-3. Make your changes and commit.
-4. Submit a pull request, explaining the improvements.
 
 ## Requirements
 
@@ -111,4 +103,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Sloan Digital Sky Survey (SDSS)**  
   [SDSS](https://www.sdss.org/)
 
-Join us in exploring the universe through data and code. The possibilities are endless when we combine the curiosity of astronomers with the power of data science!
+
+## Contributing
+
+We welcome contributions from fellow astronomy enthusiasts, programmers, and students. Contributions can include bug fixes, new features, additional examples, or enhancements to existing content.
+**For any inquiries or feedback, please contact:**
+
+**Adrita Khan**  
+[Email](mailto:adrita.khan.official@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adrita-khan) | [Twitter](https://x.com/Adrita_)
+
