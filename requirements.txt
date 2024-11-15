@@ -1,0 +1,29 @@
+
+
+# Core Requirements
+jupyter>=1.0.0
+numpy>=1.23.0
+astropy>=5.0
+matplotlib>=3.6.0
+scipy>=1.9.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+
+# Database Connectivity
+psycopg2>=2.9.0
+psycopg2-binary>=2.9.0
+
+# Graph and Visualization
+pydotplus>=2.0.2
+
+# Additional Data Science and Visualization Tools 
+seaborn>=0.12.0          # For enhanced plotting and statistical visualizations
+plotly>=5.10.0           # For interactive plots
+networkx>=2.8.0          # For network-based data representation
+
+# Performance Optimization 
+numba>=0.56.0            # For optimizing performance in numerical computations
+
+# Machine Learning
+xgboost>=1.6.0           # For boosted tree algorithms in exoplanet detection or classification tasks
+lightgbm>=3.3.0          # For lightweight boosted tree algorithms in large datasets
