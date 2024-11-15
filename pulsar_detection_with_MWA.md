@@ -114,4 +114,5 @@ During the project, the student advanced to this stage, where the process was re
 
 
 Reference: https://www.coursera.org/learn/data-driven-astronomy/lecture/AMZaJ/diving-in-imaging-stacking
+## Discovery of Pulsars can be found [here](Discovery_of_Pulsars.md)
 
