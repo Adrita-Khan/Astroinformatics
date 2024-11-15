@@ -113,5 +113,5 @@ During the project, the student advanced to this stage, where the process was re
 - **Future Exploration**: Investigate the impact of different stacking methods on data analysis.
 
 
-
+Reference: https://www.coursera.org/learn/data-driven-astronomy/lecture/AMZaJ/diving-in-imaging-stacking
 
