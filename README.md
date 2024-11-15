@@ -47,12 +47,12 @@ This repository aims to foster the development of computational thinking and dat
 - **Focus on Interdisciplinary Collaboration**: Understand the significance of interdisciplinary skills, where astronomy, computer science, and statistics converge to extract meaningful insights from the cosmos.
 
 ## Repository Structure
-
+```bash
 - **Notebooks**: Contains Jupyter notebooks that guide you through various examples and exercises related to astrophysics and computational astronomy.
 - **Data**: Datasets for hands-on exercises. Publicly available datasets have been curated here for convenience.
 - **Scripts**: Useful Python scripts that automate data processing tasks, visualize astronomical phenomena, and create simulations.
 - **Papers and References**: A collection of papers, articles, and books for extended reading, providing a theoretical background to complement the practical exercises.
-
+ ```
 ## Contributing
 
 We welcome contributions from fellow astronomy enthusiasts, programmers, and students. Contributions can include bug fixes, new features, additional examples, or enhancements to existing content.
