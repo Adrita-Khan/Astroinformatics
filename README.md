@@ -6,5 +6,6 @@ Welcome to the Astroinformatics repository! This project combines computational 
 ## References and Resources
 
 - **Data-Driven Astronomy**  
-  [Coursera - Data-Driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy)  
+  [Coursera - Data-Driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy)
+  Hosted by Prof. Dr. Tara Murphy from the University of Sydney
  
