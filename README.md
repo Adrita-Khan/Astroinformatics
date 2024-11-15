@@ -70,8 +70,8 @@ pip install -r requirements.txt
 
 - **Clone the Repository**:
   ```sh
-  git clone https://github.com/username/astroinformatics.git
-  cd astroinformatics
+  git clone https://github.com/Adrita-Khan/Astroinformatics.git
+  cd Astroinformatics
   ```
 - **Run Jupyter Notebook**:
   ```sh
