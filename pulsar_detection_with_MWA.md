@@ -3,7 +3,10 @@
 In the field of astronomy, it is common to detect signals amidst significant background noise. The following example addresses the question: How many pulsars are detected in images captured by the Murchison Widefield Array (MWA) telescope? The MWA is a low-frequency radio telescope situated in Western Australia. It detects radio emissions at frequencies ranging from 80 to 300 megahertz, comparable to those of popular radio stations. The telescope possesses a very large field of view, making it well-suited for extensive survey projects.
 
 A typical image produced by the MWA appears as shown below.
-![MWA Typical Image](Assets/Image1.png)
+A typical image produced by the MWA appears as shown below:
+
+![MWA Image](Assets/Image 1.png)
+
 
 
 The grayscale intensity measures the flux density of emissions from astronomical objects, where black represents high flux density and gray indicates background noise. Most black dots observed in such images are distant radio galaxies. However, some correspond to objects within our own galaxy, such as pulsars or supernova remnants. In radio astronomy, flux density is quantified in units of Janskys, equivalent to $\(10^{-26}\)$ watts per square meter per hertz. In other words, flux density measures the spectral power received by a telescope detector per unit projected area. Additional details are available in the resources accompanying this video. For the purposes of this exercise, it is sufficient to understand that the objective is to measure the apparent brightness of a pulsar at a specific frequency.
