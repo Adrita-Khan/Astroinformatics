@@ -1,38 +1,38 @@
-====================================WEEK-1=================================
+# WEEK-1 NOTES
 
-## Pulsars are the neutron beams formed when 
-     stars experience supernova explosion or tending 
-     to experience due to which a high freq. neutron 
-     beam forms with increased magnetic intensity 
-     (magnetic   flux) and gravitational intensity 
-     when two star collide together to result a 
-     supernova explosion.
+### Pulsars
+- **Definition**: Pulsars are highly magnetized, rotating neutron stars that emit beams of electromagnetic radiation.
+- **Formation**: They are formed from supernova explosions, where a massive star collapses, leading to high-frequency neutron beams and intense magnetic and gravitational fields.
+- **Two-Star Collision**: When two stars collide, they may also trigger a supernova, which can form a pulsar.
 
-## Astronomical images are saved in format .fits(FITS 
-   IMAGES). Also softwares ds9 and laden are used to 
-   open this type of file.
+### Astronomical Image Formats
+- **FITS Format**: Astronomical images are commonly saved in `.fits` (Flexible Image Transport System) format.
+- **Software for Viewing**: Tools like DS9 and Aladin are used to open and analyze these FITS files.
 
-## The unit of flux density is Jy(jansky)
-     and 1Jy = 1 x 10e-26 w/m^2-Hz
-     w= watt, m=metre and Hz=Hertz
+### Flux Density and Units
+- **Unit**: The unit of flux density is the Jansky (Jy).
+  - **Conversion**: \( 1 \, \text{Jy} = 1 \times 10^{-26} \, \text{W/m}^2 \text{Hz} \)
+  - \( \text{W} = \text{watt}, \, \text{m} = \text{meter}, \, \text{Hz} = \text{Hertz} \)
 
-## Sample sources and their respective flux density..
-                  Source            |      Flux Density(in Jy)
-     ==========================================================
-       1. Mobile phone              |     110,000,000
-       2.Sun at 10 GHz              |     4,000,000
-       3.Milky way at 10GHz         |     2,000
-       4.Crab pulsar at 1.4 GHz     |     0.01
+### Sample Sources and Flux Densities
+| **Source**              | **Flux Density (Jy)** |
+|-------------------------|-----------------------|
+| Mobile Phone            | 110,000,000          |
+| Sun at 10 GHz           | 4,000,000            |
+| Milky Way at 10 GHz     | 2,000                |
+| Crab Pulsar at 1.4 GHz  | 0.01                 |
 
+### Storage Calculation for Images
+- **Question**: How much memory is required to store 600,000 images at 200 x 200 px resolution?
+  - **Calculation**:
+    - 1 image = 200 x 200 px = 40,000 pixels
+    - 1 pixel = 8 bytes
+    - Total memory = \( 600,000 \times 40,000 \times 8 \, \text{bytes} = 192 \, \text{GB} \)
 
-## How much memory can be used to store 600,000 images 
-     of 200 x 200px?
- ==> 1 image = 200 x 200 px = 40,000 px
-     and 1 pixel = 8 byte
-     so total memory = 600,000 x 40,000 x 8 bytes = 192GB
+  - **Alternative Compression**:
+    - If the images don't contain critical data, they can be resized to 50 x 50 px.
+    - This would reduce storage needs by a factor of 4, requiring only 16 GB.
 
-    **Also if images does not consist of very important data 
-      then alternatively we can resize all images to 50 x 50px
-      and the memory size will be reduced by factor of 4
-      i.e only 16GB of memory will be used**
-=======================WEEK-1-END===========================
+---
+
+**END OF WEEK-1 NOTES**
