@@ -19,7 +19,9 @@
     - **Jets of energy** extending to the galaxy’s outskirts and beyond.  
     - **Massive lobes** of older radio emissions from past activity cycles.  
   - In optical imaging, the elliptical galaxy (**3C348**) appears as a collection of stars.  
-  *(Refer to the image "hercules.png")*.  
+  *(Refer to the image "hercules.png")*.
+![Hubble Space Telescope Image](https://stsci-opo.org/STScI-01EVVCY4ZEANB23E8VBCZVGVSR.jpg)
+
 
 ### 5. **Human Vision Limitations**  
 - Our eyes can only detect light in the **visible spectrum** of the electromagnetic spectrum.  
