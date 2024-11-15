@@ -72,6 +72,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Sloan Digital Sky Survey (SDSS)**  
   [SDSS](https://www.sdss.org/)
 
+- **The Data-Centric Universe**  
+  [Katie Peek's Visualization Project](https://projects.katiepeek.com/The-Data-Centric-Universe) 
+
 
 ## Contributing
 
