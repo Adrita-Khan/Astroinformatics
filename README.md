@@ -4,8 +4,6 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)  
 
-Welcome to the Astroinformatics repository! This project combines computational techniques and data-driven approaches to analyze vast astronomical datasets. Explore tools, algorithms, and resources that enhance research through machine learning, visualization, and statistical analysis.
-
 Astroinformatics is dedicated to advancing astronomical research using data-driven methodologies. Astronomy generates petabytes of data each night in today's data-intensive era, requiring robust computational approaches for collection, analysis, and simulation. Traditional methods often fall short in managing such vast datasets, making advanced computational strategies essential.
 
 The repository focuses on improving data management, facilitating pattern detection with machine learning, and fostering algorithmic thinking through practical examples. It includes coding best practices, effective data format management, and hands-on examples to support these goals. By using these resources, learners will gain the skills needed to manage and analyze large astronomical datasets with modern computational methods. Special thanks to Prof. Dr. Tara Murphy for her course on Data-Driven Astronomy, which inspired the development of this repository.
