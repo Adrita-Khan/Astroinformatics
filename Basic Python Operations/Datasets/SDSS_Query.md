@@ -1,6 +1,4 @@
-*This query does a table JOIN between the imaging (PhotoObj) and spectra
-(SpecObj) tables and includes the necessary columns in the SELECT to upload
-The results to the SAS (Science Archive Server) for FITS file retrieval.*
+*This query performs a table JOIN between the imaging (PhotoObj) and spectra (SpecObj) tables, and selects the necessary columns to upload the results to the SAS (Science Archive Server) for FITS file retrieval.*
 
 ```bash 
 SELECT TOP 500
