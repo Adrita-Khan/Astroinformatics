@@ -4,14 +4,15 @@
 
 ```bash 
 SELECT TOP 500
-    p.objid, p.u, p.g, p.r, p.i, p.z,
-    s.specobjid, s.class, s.z AS redshift,
-    s.plate, s.mjd, s.fiberid
+p.objid,p.ra,p.dec,p.u,p.g,p.r,p.i,p.z,
+p.field,
+s.specobjid, s.class, s.z as redshift,
+s.plate, s.mjd, s.fiberid
 FROM PhotoObj AS p
 JOIN SpecObj AS s ON s.bestobjid = p.objid
 WHERE 
-    p.u BETWEEN 0 AND 19.6
-    AND p.g BETWEEN 0 AND 20;
+  p.u BETWEEN 0 AND 19.6
+  AND g BETWEEN 0 AND 20
 
 
 ```
