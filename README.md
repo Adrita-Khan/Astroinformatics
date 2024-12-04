@@ -14,11 +14,12 @@ The repository focuses on improving data management, facilitating pattern detect
 
 ## Practical Benefits of Astroinformatics
 
-This repository aims to foster the development of computational thinking and data-centric problem-solving skills in astronomy enthusiasts. With advancements in technology, astronomy has entered a new era of high-dimensional datasets, requiring the use of tools like Python, R, and specialized libraries such as Astropy, Scikit-learn, and TensorFlow. Suitable for astronomers, programmers, and students interested in data analysis and coding, focusing on computational methods for astronomy. Here, you'll gain hands-on experience in how modern astronomy can benefit from sophisticated coding and data processing techniques.
+This repository fosters the development of computational thinking and data-centric problem-solving skills for astronomy enthusiasts. With technological advancements, astronomy now generates high-dimensional datasets, requiring tools like Python, R, and specialized libraries such as Astropy, Scikit-learn, and TensorFlow. It's designed for astronomers, programmers, and students interested in data analysis and coding, focusing on computational methods in astronomy. Here, you'll gain hands-on experience in applying advanced coding and data processing techniques to modern astronomical challenges.
 
-- **Learn to Utilize Data Mining Techniques**: Extract valuable information from astronomical datasets using data mining and machine learning algorithms.
-- **Work with Real Astronomical Data**: Access and analyze publicly available data from sources like the Sloan Digital Sky Survey (SDSS), NASA Exoplanet Archive, and more.
-- **Focus on Interdisciplinary Collaboration**: Understand the significance of interdisciplinary skills, where astronomy, computer science, and statistics converge to extract meaningful insights from the cosmos.
+- **Utilize Data Mining Techniques**: Extract valuable insights from astronomical datasets using data mining and machine learning algorithms.
+- **Analyze Real Astronomical Data**: Work with publicly available data from sources like the Sloan Digital Sky Survey (SDSS) and NASA Exoplanet Archive.
+- **Emphasize Interdisciplinary Collaboration**: Explore the intersection of astronomy, computer science, and statistics to derive meaningful insights from the cosmos.
+
 
 ## Repository Structure
 ```bash
