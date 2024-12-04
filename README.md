@@ -72,6 +72,14 @@ Can be found [here](References%20and%20Resources/references_and_resources.md)
 We welcome contributions from fellow astronomy enthusiasts, programmers, and students. Contributions can include bug fixes, new features, additional examples, or enhancements to existing content.
 **For any inquiries or feedback, please contact:**
 
+## Contact
+
+For any inquiries or feedback, please contact:
+
 **Adrita Khan**  
-[Email](mailto:adrita.khan.official@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adrita-khan) | [Twitter](https://x.com/Adrita_)
+[📧 Email](mailto:adrita.khan.official@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/adrita-khan) | [🐦 Twitter](https://x.com/Adrita_)
+
+---
+
+*Thank you for your interest in Astroinformatics!*
 
