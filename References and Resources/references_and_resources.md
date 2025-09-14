@@ -24,3 +24,9 @@
 
 - **Murchison Widefield Array (MWA)**  
   [MWA Telescope](https://www.mwatelescope.org/)
+
+- [AY119 Astronomy Course at Caltech, Astroinformatics - Spring 2025](https://sites.astro.caltech.edu/~george/ay119/)
+
+- [Statistical Machine Learning for Astronomy](https://arxiv.org/pdf/2506.12230)
+
+- [GitHub Repository for Statistical Machine Learning](https://github.com/tingyuansen/statml)
